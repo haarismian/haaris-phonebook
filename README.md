@@ -11,7 +11,7 @@ This is a simple Python application intended to implement a contact book.
 1. Add as many contacts as user prefers (with confirmation feature)
 2. Search for individual contacts based on first name, last name, or phone number
 3. View all saved contacts and sort by recently added, first name, or last name
-4. Delete contacts
+4. Delete contacts (with confirmation feature)
 5. Keyboard interaction functionality
 
 # How To run this application
